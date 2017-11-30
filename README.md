@@ -1,3 +1,3 @@
 ## Basically for me right now
 
-[Mullvad](mullvad.html)
+[A couple of great links!](that70sshow.html)
