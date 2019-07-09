@@ -5,3 +5,5 @@ enforce_ssl: yagelski.dev
 
 title: yagelski.dev
 description: Blog posts, app hosts, & subtle boasts
+
+baseurl: asyagelski.github.io/
