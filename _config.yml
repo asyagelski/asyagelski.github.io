@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 
 url: https://yagelski.dev
 enforce_ssl: yagelski.dev
+
+title: yagelski.dev
+description: Blog posts, app hosts, and subtle boasts
