@@ -1,1 +1,11 @@
-boo
+{
+  "Items": [
+    {
+      "Name": "Test",
+      "Class": "Test",
+      "Type": "Test",
+      "Rarity": "Test",
+      "Description": "Test"
+    }
+  ]
+}
