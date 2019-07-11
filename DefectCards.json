@@ -1,0 +1,11 @@
+{
+  "Items": [
+    {
+      "Name": "Test Name",
+      "Type": "Test Type",
+      "Cost": "Test Cost",
+      "Rarity": "Test Rarity",
+      "Description": "Test Description"
+    }
+  ]
+}
